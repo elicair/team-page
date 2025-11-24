@@ -71,7 +71,7 @@ position: relative;
 </div>
 <!-- Second Item -->
 <div class="item">
-<img src="[auto](https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjI1/black-lab-in-fall-leaves-107225.jpg?arena_f_auto/100" alt="Image 1" /><div class="text">this is suzan our receptionest. suzan has workd with us for one year but has alredy proven herself as a would class receptionest she loves to garden and before joining our team she worked at a green house.</div>
+<img src="[auto](https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjI1/black-lab-in-fall-leaves-107225.jpg?arena_f_auto/100" alt="Image 1" /><div class="text">this is suzan our receptionest. suzan has workd with us for one year but has alredy proven herself as a would class receptionest.</div>
 </div>
 <!-- Third Item -->
 <div class="item">
