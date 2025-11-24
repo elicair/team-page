@@ -1,4 +1,4 @@
-#team page
+
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -66,7 +66,7 @@ margin-top: 10px;
 <div class="gallery">
 <div class="box">
 <img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjEy/siberian-husky-107212.jpg?arena_f_auto" alt="Image 1" />
-<div class="this is bruce and he is the companys owner. bruce founded this company thirty years ago in his appartment</div>
+<div class="this is bruce and he is the companys owner. bruce founded this company thirty years ago in his appartment.</div>
 </div>
 <div class="box">
 <img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjE5/german-shepherd-laying-in-grass-107219.jpg?arena_f_auto" alt="Image 2" />
