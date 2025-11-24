@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Images with Text and Navigation</title>
+<title>team page</title>
 <style>
 /* Container for all items */
 .container {
