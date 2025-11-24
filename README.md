@@ -67,11 +67,11 @@ position: relative;
 <!-- First Item -->
 <div class="item">
 <img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjEy/siberian-husky-107212.jpg?arena_f_auto/100" alt="Image 1" />
-<div class="text">dave is our product manager. he loves to walk and jog. dave is 23 and has woked hee for 3 years. before joining ou team he was a ski instructer.</div>
+<div class="text">dave is our product manager. he loves to walk and jog. dave is 23 and has woked here for 3 years. before joining our team he was a ski instructer.</div>
 </div>
 <!-- Second Item -->
 <div class="item">
-<img src="[auto](https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjI1/black-lab-in-fall-leaves-107225.jpg?arena_f_auto/100" alt="Image 1" /><div class="text">this is suzan our receptionest. suzan has workd with us fo one yea but has alredy proven herself as a would class receptionest she loves to garden and before joining our team she worked at a green house.</div>
+<img src="[auto](https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjI1/black-lab-in-fall-leaves-107225.jpg?arena_f_auto/100" alt="Image 1" /><div class="text">this is suzan our receptionest. suzan has workd with us for one year but has alredy proven herself as a would class receptionest she loves to garden and before joining our team she worked at a green house.</div>
 </div>
 <!-- Third Item -->
 <div class="item">
