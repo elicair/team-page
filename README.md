@@ -61,7 +61,7 @@ position: relative;
 </head>
 <body>
 
-<h1>Gallery with Text and Navigation</h1>
+<h1>team page</h1>
 
 <div class="container">
 <!-- First Item -->
