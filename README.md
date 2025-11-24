@@ -66,22 +66,22 @@ position: relative;
 <div class="container">
 <!-- First Item -->
 <div class="item">
-<img src="https://via.placeholder.com/100" alt="Image 1" />
+<img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjEy/siberian-husky-107212.jpg?arena_f_auto/100" alt="Image 1" />
 <div class="text">This is the description for image 1.</div>
 </div>
 <!-- Second Item -->
 <div class="item">
-<img src="https://via.placeholder.com/100" alt="Image 2" />
+<img src="<img src="https://pethelpful.com/.image/w_3840,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjE2/golden-retriever-running-107216.jpg?arena_f_auto/100"alt="Golden Retriever Running/>
 <div class="text">This is the description for image 2.</div>
 </div>
 <!-- Third Item -->
 <div class="item">
-<img src="https://via.placeholder.com/100" alt="Image 3" />
+<img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3Mjg1/kuvasz-107285.jpg?arena_f_auto/100" alt="Image 3" />
 <div class="text">This is the description for image 3.</div>
 </div>
 <!-- Fourth Item -->
 <div class="item">
-<img src="https://via.placeholder.com/100" alt="Image 4" />
+<img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjE5/german-shepherd-laying-in-grass-107219.jpg?arena_f_auto/100" alt="Image 4" />
 <div class="text">This is the description for image 4.</div>
 </div>
 </div>
