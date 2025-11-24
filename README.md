@@ -67,22 +67,22 @@ position: relative;
 <!-- First Item -->
 <div class="item">
 <img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjEy/siberian-husky-107212.jpg?arena_f_auto/100" alt="Image 1" />
-<div class="text">This is the description for image 1.</div>
+<div class="text">dave is our product manager. he loves to walk and jog. dave is 23 and has woked hee for 3 years. befo joining ou team he was a ski instructer.</div>
 </div>
 <!-- Second Item -->
 <div class="item">
 <img src="<img src="https://pethelpful.com/.image/w_3840,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjE2/golden-retriever-running-107216.jpg?arena_f_auto/100"alt="Golden Retriever Running/>
-<div class="text">This is the description for image 2.</div>
+<div class="text">this is suzan our receptionest. suzan has workd with us fo one yea but has alredy proven herself as a would class receptionest she loves to garden and befor becomeing part of our team she worked at a green house.</div>
 </div>
 <!-- Third Item -->
 <div class="item">
 <img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3Mjg1/kuvasz-107285.jpg?arena_f_auto/100" alt="Image 3" />
-<div class="text">This is the description for image 3.</div>
+<div class="text">this is fred our top forman. he has served two tours in iraq and receved a puple heart. he has been a valued membe for 10 years and he is 40 years old. fred leads a expirenced crew who carry out the majority of the companys labor.</div>
 </div>
 <!-- Fourth Item -->
 <div class="item">
 <img src="https://pethelpful.com/.image/w_750,q_auto:good,c_limit/NDowMDAwMDAwMDAwMTA3MjE5/german-shepherd-laying-in-grass-107219.jpg?arena_f_auto/100" alt="Image 4" />
-<div class="text">This is the description for image 4.</div>
+<div class="text">this is jimmy our newest full time employee. although he has woked summers for the last two years he was just hieed full time last week. he is 18 and has an incredibal drive to become a forman one day.</div>
 </div>
 </div>
 
